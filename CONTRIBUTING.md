@@ -1,5 +1,5 @@
 while True:
-    c = input("write something: ")
+    c = input("holik tolik: ")
     if c == "stop":
         break
     if len(c) < 2:
